@@ -1,0 +1,30 @@
+{
+  "name": "gradebook",
+  "version": "1.0.0",
+  "description": "Grade Book Program",
+  "main": "program.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "dependencies": {
+    "express": "^4.16.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isury88/gradeBook.git"
+  },
+  "keywords": [
+    "gradeBook"
+  ],
+  "author": "Riccardo Venturini",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isury88/gradeBook/issues"
+  },
+  "homepage": "https://github.com/isury88/gradeBook#readme"
+}
